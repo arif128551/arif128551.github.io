@@ -73,7 +73,7 @@ $(document).ready( function() {
     // HOME TYPED JS
      $(function(){
       $(".element").typed({
-        strings: ["Arif Rahman", "Web Developer",],
+        strings: ["Md Arif U.", "Web Developer",],
         typeSpeed: 10,
         loop:true,
         backDelay: 2000
